@@ -1,4 +1,4 @@
-# mongo-db-example
+# mongo-db-example and Junit with embedded db
 
 ## Docker command to create mongodb in local
 ~~~
